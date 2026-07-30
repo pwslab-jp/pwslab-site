@@ -36,8 +36,8 @@ export const metadata: Metadata = {
     ],
   },
   icons: {
-    icon: "/favicon.png",
-    apple: "/apple-touch-icon.png",
+    icon: "/images/favicon.png",
+    apple: "/images/apple-touch-icon.png",
   },
   twitter: {
     card: "summary_large_image",
