@@ -114,7 +114,6 @@ function mapArticle(page: any): NotionArticle {
     slug: getRichText(properties, "Slug"),
     summary: getRichText(properties, "Summary"),
     metaDescription: getRichText(properties, "MetaDescription"),
-    saitoComment: getRichText(properties, "SaitoComment"),
     eyecatchUrl,
     publishDate: getDate(properties, "PublishDate"),
     updatedDate: getDate(properties, "UpdatedDate"),
